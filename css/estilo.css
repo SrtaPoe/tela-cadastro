@@ -59,12 +59,17 @@ form {
 .full-box {
     flex: 1 1 100%;
     position: relative;
+    margin-left: 32px;
+    margin-right: 32px;
 }
 
 
 .half-box {
-    flex: 1 1 45%;
-    position: relative;
+     flex: 1 1 45%; 
+    position: relative; 
+    /* margin-left: 32px; */
+    /* margin-right: 32px; */
+    /* padding-left: 10px; */
 }
 
 .spacing {
