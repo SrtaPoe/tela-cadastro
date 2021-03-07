@@ -105,7 +105,7 @@ input[type="submit"] {
     margin-right: 5px;
 }
 
-#agreement, agreement-label {
+#agreement, #agreement-label{    
     display: inline-block;
     width: auto;
 }
